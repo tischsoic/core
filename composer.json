@@ -157,7 +157,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-main": "3.3.x-dev"
+            "dev-downgraded-deps": "3.3.x-dev"
         },
         "symfony": {
             "require": "^6.4 || ^7.0"

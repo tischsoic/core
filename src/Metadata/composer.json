@@ -76,7 +76,7 @@
             "dev-main": "3.3.x-dev"
         },
         "symfony": {
-            "require": "^6.4"
+            "require": "^5.4"
         }
     },
     "scripts": {
