@@ -31,12 +31,12 @@
         "api-platform/state": "*@dev || ^3.1",
         "api-platform/metadata": "*@dev || ^3.1",
         "psr/container": "1.1|2.0",
-        "symfony/deprecation-contracts": "^3.1"
+        "symfony/deprecation-contracts": "^2.5"
     },
     "require-dev": {
         "phpspec/prophecy-phpunit": "^2.1",
         "sebastian/comparator": "<5.0",
-        "symfony/phpunit-bridge": "^6.4 || ^7.0"
+        "symfony/phpunit-bridge": "5.4"
     },
     "suggest": {},
     "autoload": {

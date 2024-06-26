@@ -27,21 +27,21 @@
         "api-platform/state": "*@dev || ^3.1",
         "doctrine/mongodb-odm": "^2.2",
         "doctrine/mongodb-odm-bundle": "^5.0",
-        "symfony/property-info": "^6.4 || ^7.0"
+        "symfony/property-info": "5.4"
     },
     "require-dev": {
         "api-platform/parameter-validator": "*@dev || ^3.2",
         "doctrine/doctrine-bundle": "^2.11",
         "phpspec/prophecy-phpunit": "^2.0",
         "phpunit/phpunit": "^10.0",
-        "symfony/cache": "^6.4 || ^7.0",
-        "symfony/framework-bundle": "^6.4 || ^7.0",
-        "symfony/phpunit-bridge": "^6.4 || ^7.0",
-        "symfony/property-access": "^6.4 || ^7.0",
-        "symfony/serializer": "^6.4 || ^7.0",
-        "symfony/uid": "^6.4 || ^7.0",
-        "symfony/validator": "^6.4 || ^7.0",
-        "symfony/yaml": "^6.4 || ^7.0"
+        "symfony/cache": "5.4",
+        "symfony/framework-bundle": "5.4",
+        "symfony/phpunit-bridge": "5.4",
+        "symfony/property-access": "5.4",
+        "symfony/serializer": "5.4",
+        "symfony/uid": "5.4",
+        "symfony/validator": "5.4",
+        "symfony/yaml": "5.4"
     },
     "autoload": {
         "psr-4": {
