@@ -55,7 +55,7 @@
             "dev-main": "3.3.x-dev"
         },
         "symfony": {
-            "require": "^6.1"
+            "require": "^5.4"
         }
     },
     "scripts": {

@@ -133,7 +133,7 @@ final class ItemNormalizer extends BaseItemNormalizer
     /**
      * {@inheritdoc}
      */
-    protected function getAllowedAttributes(string|object $classOrObject, array $context, bool $attributesAsString = false): array|bool
+    protected function getAllowedAttributes($classOrObject, array $context, bool $attributesAsString = false): array|bool
     {
         $allowedAttributes = parent::getAllowedAttributes($classOrObject, $context, $attributesAsString);
 
